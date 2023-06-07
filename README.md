@@ -1,3 +1,5 @@
+Forked to handle setClientToken
+
 # React Native FBSDK Next
 
 This project aims to keep continuity of the [React Native FBSDK](https://github.com/facebook/react-native-fbsdk) from Facebook. As Facebook dropped support from it. As a community for this is our effort in order to keep upgrading and improving support for this module.
